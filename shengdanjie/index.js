@@ -8,8 +8,8 @@ $(".pothook").click(function(){
 })
 var arrdata = [
 	{"headimg":"img/tanmuhead.png","message":"晓看天色暮看云  行也思君  坐也思君","vote":520,"id":11,"state":1},
-	{"headimg":"img/tanmuhead.png","message":"一日不见，如三月兮","vote":1314,"id":12,"state":0},
-	{"headimg":"img/tanmuhead.png","message":"换我心，为你心，始知相忆深","vote":3399,"id":13,"state":1}
+	{"headimg":"img/tanmuhead.png","message":"一日不见，如三月兮；一日不见，如三秋兮；一日不见，如三岁兮","vote":1314,"id":12,"state":0},
+	{"headimg":"img/tanmuhead.png","message":"给你最长情的告白，然后一生陪你饮酒醉骑马走天涯","vote":3399,"id":13,"state":1}
 ]
 
 var locaScreen = [120,160,200,240,280];//弹幕位置
